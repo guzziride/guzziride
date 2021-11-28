@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guzziride
+- 👀 I’m interested in ML, Blockchain, Raspberry Pi as my personal interest projects (unrelated to work)
+- 🌱 I’m currently learning Solidity
